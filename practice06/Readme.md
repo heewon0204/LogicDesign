@@ -39,5 +39,5 @@ assign	six_digit_seg = { seg_left, seg_right, seg_left, seg_right, seg_left, seg
 
 ![](https://github.com/heewon0204/LogicDesign/blob/master/practice06/pic/quiz2.jfif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTcxMjYzMSwtMzAzMDUyMzgxXX0=
+eyJoaXN0b3J5IjpbLTE4OTU5NTU4ODMsLTMwMzA1MjM4MV19
 -->
