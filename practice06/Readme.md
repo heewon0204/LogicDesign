@@ -25,6 +25,7 @@
 
 *저 끝에 빨간줄이 이어지다가 초록색 부분이 보이는 지점은 데이터의 끝지점임을 나타낸다.
 
+
 ## 결과
 ### **Top Waveform 검증**
  
@@ -36,6 +37,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5MjQ5ODYsMTgzNTM1MDg0MCwtMTg0Nj
-E3OTg2NSwtMjA4ODc0NjYxMiwtMzAzMDUyMzgxXX0=
+eyJoaXN0b3J5IjpbLTE0MzM0OTcwNDgsMTgzNTM1MDg0MCwtMT
+g0NjE3OTg2NSwtMjA4ODc0NjYxMiwtMzAzMDUyMzgxXX0=
 -->
