@@ -21,17 +21,19 @@
 @ 송신 데이터 부분이다.
 @ 데이터의 확인을 위해서 보수 신호 역시 보낸다.
 
+저 끝에 빨간줄이 이어지다가 초록색 부분이 보이는 지점은 데이터
+
 ## 결과
 ### **Top Waveform 검증**
  
- `Please fill up your source`
+ 
 
      
 ### **FPGA 동작 사진**
  
-`Please fill up your source`
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTM1MDg0MCwtMTg0NjE3OTg2NSwtMj
-A4ODc0NjYxMiwtMzAzMDUyMzgxXX0=
+eyJoaXN0b3J5IjpbOTY5MzE4ODI1LDE4MzUzNTA4NDAsLTE4ND
+YxNzk4NjUsLTIwODg3NDY2MTIsLTMwMzA1MjM4MV19
 -->
