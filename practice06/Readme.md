@@ -10,13 +10,13 @@
 @ 약 9ms정도 0에 있다가 1로 상승한다. (0 - 8999까지)
 @
 
-#### **Submodule 2**
-
+#### **Custom Code**
+@ 32bit로 구성이 되어있다.
+@이 중
 #### **Submodule 3**
 : 6개의 LED에 원하는 값을 Display하는 모듈 설계
 
 #### **Top Module**
-: 저번 시간에 만든 second counter  및 Submodule 1/2를 이용하여  실습 장비의 LED에 맞는 Display Module 설계
 
 
 ## 결과
@@ -30,6 +30,6 @@
 `Please fill up your source`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjA1OTI2NjcsLTE4NDYxNzk4NjUsLT
-IwODg3NDY2MTIsLTMwMzA1MjM4MV19
+eyJoaXN0b3J5IjpbNDI1Nzk1NTg0LC0xODQ2MTc5ODY1LC0yMD
+g4NzQ2NjEyLC0zMDMwNTIzODFdfQ==
 -->
