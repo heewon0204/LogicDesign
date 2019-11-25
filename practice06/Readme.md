@@ -2,7 +2,7 @@
 
 ## 실습 내용
 
-### ****
+### **적외선 리모콘으로 데이터 전달**
 
 #### **Submodule 1**
 : 0~9의 값을 갖는 4bit 입력 신호를 받아 7bit FND  segment  값 출력
@@ -23,39 +23,18 @@
 
 : Quiz 관련 테스트
 
-## 퀴즈
-### 아래 코드 일부를 수정하여 다음을 구하시오
-```verilog
-wire  [41:0] six_digit_seg;
-assign       six_digit_seg = { 4{7'b0000000}, seg_left, seg_right }
-```
-> Q1 - 고정 LED (왼쪽 4개) AAAA 출력
 
-: `AA_AA_00`, `AA_AA_01`, `AA_AA_02`, … 순으로 LED 변경
-
-`Please fill up your source`
-
-> Q2 - 고정 LED 없이 2개의 LED 단위로 1초 Counter 값 표시
-
-: `00_00_00`, `01_01_01`, `02_02_02`, … 순으로 LED 변경
-
-`Please fill up your source`
 
 ## 결과
-### **Top Module 의 DUT/TestBench Code 및 Waveform 검증**
+### **Top Waveform 검증**
  
  `Please fill up your source`
      
-### **FPGA 동작 사진 (3개- 일반, Q1, Q2)**
+### **FPGA 동작 사진**
  
 `Please fill up your source`
 
-![](https://github.com/woongchoi-sookmyung/LogicDesign/blob/master/practice06/figs/pengsu.jpg)
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyODMwMzM0XX0=
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzIzNTU4NywtMjA4ODc0NjYxMiwtMz
-AzMDUyMzgxXX0=
+eyJoaXN0b3J5IjpbLTEyODU2NDU1MjgsLTIwODg3NDY2MTIsLT
+MwMzA1MjM4MV19
 -->
