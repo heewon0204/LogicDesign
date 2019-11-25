@@ -13,15 +13,17 @@
 #### **Custom Code**
 @ 16bit로 구성이 되어있다.
 @ 이 중 절반은 원래 값의 반전된 형태다.
+@ 반전된 형태에는 1의 보수 방식이 쓰였다.
 @ 특정한 회사를 나타내는 부분이다.
 
 #### **Data Code**
 @ custom code와 마찬가지로 16bit로 구성이 되어있다.
 @ 이 중 절반은 원래 값의 반전된 형태다.
+@ 반전된 형태에는 1의 보수 방식이 쓰였다.
 @ 송신 데이터 부분이다.
 @ 데이터의 확인을 위해서 보수 신호 역시 보낸다.
 
-저 끝에 빨간줄이 이어지다가 초록색 부분이 보이는 지점은 데이터
+*저 끝에 빨간줄이 이어지다가 초록색 부분이 보이는 지점은 데이터의 끝지점임을 나타낸다.
 
 ## 결과
 ### **Top Waveform 검증**
@@ -34,6 +36,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5MzE4ODI1LDE4MzUzNTA4NDAsLTE4ND
-YxNzk4NjUsLTIwODg3NDY2MTIsLTMwMzA1MjM4MV19
+eyJoaXN0b3J5IjpbNDI5MjQ5ODYsMTgzNTM1MDg0MCwtMTg0Nj
+E3OTg2NSwtMjA4ODc0NjYxMiwtMzAzMDUyMzgxXX0=
 -->
