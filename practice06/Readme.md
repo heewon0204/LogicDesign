@@ -7,10 +7,10 @@
 #### **Leader Code** 
 @ 프레임의 모드 선택
 @ 리모콘 누르자 마자 시작되는 부분이다.
-@ 야
+@ 약 9ms정도 0에 있다가 1로 상승한다. (0 - 8999까지)
+@
 
 #### **Submodule 2**
-: 0~59의 값을 갖는 6bit 입력 신호를 받아 십의 자리 수와 일의 자리 수를 각각 4bit으로 출력
 
 #### **Submodule 3**
 : 6개의 LED에 원하는 값을 Display하는 모듈 설계
@@ -30,6 +30,6 @@
 `Please fill up your source`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MDE2MTU5NywtMTg0NjE3OTg2NSwtMj
-A4ODc0NjYxMiwtMzAzMDUyMzgxXX0=
+eyJoaXN0b3J5IjpbLTE5NjA1OTI2NjcsLTE4NDYxNzk4NjUsLT
+IwODg3NDY2MTIsLTMwMzA1MjM4MV19
 -->
