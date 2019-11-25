@@ -4,8 +4,10 @@
 
 ### **적외선 리모콘으로 데이터 전달**
 
-#### **Leader Code**
-: * 
+#### **Leader Code** 
+@ 프레임의 모드 선택
+@ 리모콘 누르자 마자 시작되는 부분이다.
+@ 야
 
 #### **Submodule 2**
 : 0~59의 값을 갖는 6bit 입력 신호를 받아 십의 자리 수와 일의 자리 수를 각각 4bit으로 출력
@@ -28,6 +30,6 @@
 `Please fill up your source`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MjkzNzc5NywtMTg0NjE3OTg2NSwtMj
+eyJoaXN0b3J5IjpbLTg3MDE2MTU5NywtMTg0NjE3OTg2NSwtMj
 A4ODc0NjYxMiwtMzAzMDUyMzgxXX0=
 -->
