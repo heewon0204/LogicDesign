@@ -11,12 +11,12 @@
 @
 
 #### **Custom Code**
-@ 32bit로 구성이 되어있다.
+@ 16bit로 구성이 되어있다.
 @ 이 중 절반은 원래 값의 반전된 형태다.
 @
 
 #### **Data Code**
-@ custom code와 마찬가지로 32bit로 구성이 되어있다.
+@ custom code와 마찬가지로 16bit로 구성이 되어있다.
 @ 이 중 절반은 원래 값의 반전된 형태다.
 
 ## 결과
@@ -30,6 +30,6 @@
 `Please fill up your source`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjk0NjgyMCwtMTg0NjE3OTg2NSwtMj
+eyJoaXN0b3J5IjpbLTI1NDEyNzYyNCwtMTg0NjE3OTg2NSwtMj
 A4ODc0NjYxMiwtMzAzMDUyMzgxXX0=
 -->
