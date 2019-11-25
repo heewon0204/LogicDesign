@@ -12,12 +12,12 @@
 
 #### **Custom Code**
 @ 32bit로 구성이 되어있다.
-@이 중
-#### **Submodule 3**
-: 6개의 LED에 원하는 값을 Display하는 모듈 설계
+@ 이 중 절반은 원래 값의 반전된 형태다.
+@
 
-#### **Top Module**
-
+#### **Data Code**
+@ custom code와 마찬가지로 32bit로 구성이 되어있다.
+@ 이 중 절반은 원래 값의 반전된 형태다.
 
 ## 결과
 ### **Top Waveform 검증**
@@ -30,6 +30,6 @@
 `Please fill up your source`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1Nzk1NTg0LC0xODQ2MTc5ODY1LC0yMD
-g4NzQ2NjEyLC0zMDMwNTIzODFdfQ==
+eyJoaXN0b3J5IjpbMTczNjk0NjgyMCwtMTg0NjE3OTg2NSwtMj
+A4ODc0NjYxMiwtMzAzMDUyMzgxXX0=
 -->
