@@ -8,7 +8,7 @@
 @ 프레임의 모드 선택
 @ 리모콘 누르자 마자 시작되는 부분이다.
 @ 약 9ms정도 0에 있다가 1로 상승한다. (0 - 8999까지)
-@
+@ 인터벌 1개는 9ms + 4.5ms로 구성된다.
 
 #### **Custom Code**
 @ 16bit로 구성이 되어있다.
@@ -30,6 +30,6 @@
 `Please fill up your source`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDEyNzYyNCwtMTg0NjE3OTg2NSwtMj
-A4ODc0NjYxMiwtMzAzMDUyMzgxXX0=
+eyJoaXN0b3J5IjpbLTEzODYyNzY4ODUsLTE4NDYxNzk4NjUsLT
+IwODg3NDY2MTIsLTMwMzA1MjM4MV19
 -->
